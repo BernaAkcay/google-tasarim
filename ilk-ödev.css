@@ -1,0 +1,105 @@
+.logo {background-color: white;
+padding-left: 500px;
+padding-right: 0px;
+margin-top: 100px; 
+margin-bottom: 25px; 
+width: auto;
+height: 150px ;} 
+
+.yazının-kutusu { background-color: rgb(234, 238, 238);
+
+height: 100px;
+padding-left: 510px;
+padding-top: 5px;
+} 
+
+.yazının-kutusu-font {font-size:smaller ;
+position: relative;
+left: 60px;} 
+
+.arama-motoru {background-color: white;
+width: 300px;
+height: 20px;
+border: 1px solid rgb(8, 6, 6);}
+
+.card-1{ width: 100px;
+height: 15px; 
+border: 1px solid rgb(116, 103, 103);
+font-size: small;
+margin-top: 5px;
+margin-left: 40px;
+padding-left: 2px;
+}
+
+.card-2 {width: 100px;
+    height: 15px; 
+    border: 1px solid rgb(116, 103, 103);
+    font-size: small;
+    float: right;
+    margin-right: 586px;
+    margin-top: -16.7px;
+    padding-left: 4px;
+    padding-right: 2px; }
+
+    .mavi-kutu-1 { background-color: rgb(133, 214, 207);
+    width: 500px;
+    height: 75px;
+    margin-top: -10px;
+    text-align: center; 
+   ;
+    
+    }
+.ikinci-mavi-kutu 
+{width: 200px; 
+height: 75px; 
+background-color: rgb(113, 202, 198); 
+float: right;
+position: relative;
+right: 645px;
+margin-top: -75px;
+text-align: center;
+}
+
+.üçüncü-mavi-kutu { width: 640px;
+    height: 75px; 
+background-color: rgb(86, 184, 184);
+float: right;
+margin-top: -75px;
+position: relative; right: 2px;
+font-size: small;
+text-align: center;
+
+}
+.mail-kutusu { width: 200px;
+    height: 18px;
+background-color: white;
+border: 1px solid rgb(94, 83, 83);
+font-size: small;
+position: relative; left: 230px;
+text-align: left;}
+
+.subscribe-kutusu { width: 100px;
+height: 20px;
+border: 1px solid rgb(128, 118, 118);
+background-color: rgb(226, 220, 220);
+position: relative;
+left: 250px;} 
+
+ 
+.archive-kutusu { position: relative;
+    left: 85px;
+margin-top:  -15px;} 
+    
+
+
+
+
+    
+    /* noktalı virgül ve sayıların sonuna px eklemeyi unutma knka 
+    "position: relative; left:" bu etiket isteğine göre kutuları hareket ettirme */ 
+
+
+
+
+
+
